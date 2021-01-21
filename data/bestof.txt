@@ -1,0 +1,101 @@
+Position,Artist,Album,Year
+100,Avenged Sevenfold,City of Evil,2005
+99,Evanescence,Fallen,2003
+98,Sunn O))),Monoliths & Dimensions,2009
+97,Gojira,From Mars to Sirius,2005
+96,Kvelertak,Meir,2013
+95,Dream Theater,Images and Words,1992
+94,Deafheaven,Sunbather,2013
+93,White Zombie,La Sexorcisto: Devil Music Volume One,1992
+92,Eyehategod,Take as Needed for Pain,1993
+91,Naked City,Torture Garden,1990
+90,Body Count,Body Count,1992
+89,Nightwish,Once,2004
+88,Pig Destroyer,Terrifyer,2004
+87,Manowar,Hail to England,1984
+86,Lamb of God,As the Palaces Burn,2003
+85,Darkthrone,Transilvanian Hunger,1994
+84,High on Fire,Blessed Black Wings,2005
+83,Baroness,The Red Album,2007
+82,Entombed,Left Hand Path,1990
+81,Bathory,Under the Sign of the Black Mark,1987
+80,Ministry,Psalm 69: The Way to Succeed and the Way to Suck Eggs,1992
+79,At the Gates,Slaughter of the Soul,1995
+78,Voivod,Dimension Hatröss,1988
+77,Meshuggah,Destroy Erase Improve,1995
+76,Twisted Sister,Stay Hungry,1984
+75,Morbid Angel,Covenant,1993
+74,Venom,Welcome to Hell,1981
+73,Scorpions,Blackout,1982
+72,Isis,Oceanic,2002
+71,Living Colour,Vivid,1988
+70,Death,Human,1991
+69,Soundgarden,Louder Than Love,1989
+68,Marilyn Manson,Portrait of an American Family,1994
+67,Queensrÿche,Operation: Mindcrime,1988
+66,Deftones,White Pony,2000
+65,Faith No More,Angel Dust,1992
+64,Godflesh,Streetcleaner,1989
+63,Sodom,Agent Orange,1989
+62,Sleep,Jerusalem,1999
+61,Converge,Jane Doe,2001
+60,Melvins,Bullhead,1991
+59,Napalm Death,From Enslavement to Obliteration,1988
+58,Life of Agony,River Runs Red,1993
+57,Emperor,Anthems to the Welkin at Dusk,1997
+56,The Dillinger Escape Plan,Calculating Infinity,1999
+55,Opeth,Blackwater Park,2001
+54,Helmet,Meantime,1992
+53,Type O Negative,Bloody Kisses,1993
+52,Def Leppard,Pyromania,1983
+51,Carcass,Heartwork,1993
+50,Slipknot,Iowa,2001
+49,Neurosis,Through Silver in Blood,1996
+48,Rainbow,Rising,1976
+47,Slayer,South of Heaven,1988
+46,Mastodon,Leviathan,2004
+45,Exodus,Bonded by Blood,1985
+44,Mötley Crüe,Shout at the Devil,1983
+43,Judas Priest,Stained Class,1978
+42,Diamond Head,Lightning to the Nations,1980
+41,Kyuss,Blues for the Red Sun,1992
+40,Mayhem,De Mysteriis Dom Sathanas,1994
+39,Pantera,Far Beyond Driven,1994
+38,Iron Maiden,Powerslave,1984
+37,Black Sabbath,Heaven and Hell,1980
+36,Van Halen,Women and Children First,1980
+35,Metallica,Kill Em All,1983
+34,Black Sabbath,Master of Reality,1971
+33,Megadeth,Countdown to Extinction,1992
+32,Black Sabbath,Sabotage,1975
+31,Slayer,Seasons in the Abyss,1990
+30,Korn,Korn,1994
+29,Sepultura,Chaos A.D.,1993
+28,Celtic Frost,Morbid Tales,1984
+27,System of a Down,Toxicity,2001
+26,Alice in Chains,Dirt,1992
+25,Metallica,Metallica,1991
+24,Rage Against the Machine,Rage Against the Machine,1992
+23,Danzig,Danzig,1988
+22,Mötley Crüe,Too Fast for Love,1981
+21,Metallica,...And Justice for All,1988
+20,Anthrax,Among the Living,1987
+19,Megadeth,Rust in Peace,1990
+18,Tool,Ænima,1996
+17,Mercyful Fate,Melissa,1983
+16,Dio,Holy Diver,1983
+15,Ozzy Osbourne,Diary of a Madman,1981
+14,Black Sabbath,Vol. 4,1972
+13,Iron Maiden,Iron Maiden,1980
+12,Judas Priest,Screaming for Vengeance,1982
+11,Metallica,Ride the Lightning,1984
+10,Pantera,Vulgar Display of Power,1992
+9,Ozzy Osbourne,Blizzard of Ozz,1980
+8,Megadeth,Peace Sells ... but Whos Buying?,1986
+7,Motörhead,No Remorse,1984
+6,Slayer,Reign in Blood,1986
+5,Black Sabbath,Black Sabbath,1970
+4,Iron Maiden,The Number of the Beast,1982
+3,Judas Priest,British Steel,1980
+2,Metallica,Master of Puppets,1986
+1,Black Sabbath,Paranoid,1970
