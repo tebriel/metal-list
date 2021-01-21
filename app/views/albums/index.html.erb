@@ -5,6 +5,7 @@
 <table>
   <thead>
     <tr>
+      <th>Thumbnail</th>
       <th>Name</th>
       <th>Position</th>
       <th>Year</th>
@@ -16,6 +17,7 @@
   <tbody>
     <% @albums.each do |album| %>
       <tr>
+        <td><%= image_tag(album.thumbnail_url || "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png", width: 50, height: 50) %></td>
         <td><%= album.name %></td>
         <td><%= album.position %></td>
         <td><%= album.year %></td>
