@@ -22,3 +22,16 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+## To Do
+
+- [ ] Album Art Background Job
+- [ ] User likes/dislikes
+- [ ] User "has listened" checkbox
+- [ ] Add some javascript to explore [webpacker](https://github.com/rails/webpacker)
+- [ ] Replace Views with [GH View Components](https://github.com/github/view_component)
+- [ ] Maybe use [primer view components](https://github.com/primer/view_components)
+- [ ] Add primer node package (cards)
+- [ ] Content Security Policy (use proxy or host images locally)
+- [ ] active storage "has attached thumbnail"
