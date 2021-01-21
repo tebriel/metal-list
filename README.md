@@ -35,3 +35,5 @@ Things you may want to cover:
 - [ ] Add primer node package (cards)
 - [ ] Content Security Policy (use proxy or host images locally)
 - [ ] active storage "has attached thumbnail"
+- [ ] Host in Azure
+- [ ] Terraform
